@@ -12,7 +12,13 @@ package com.mycompany.testproject;
 public class firstClass {
       public static void main(String[] args) {
       
-         System.out.println("Premier salut!!!");
+         generateString();
         
     }  
+
+      public  static String generateString(){
+         
+          return "Premier salut!!!"; 
+      
+      }
 }
