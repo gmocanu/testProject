@@ -12,7 +12,7 @@ package com.mycompany.testproject;
 public class firstClass {
       public static void main(String[] args) {
       
-         generateString()
+         generateString();
         
     }  
 
