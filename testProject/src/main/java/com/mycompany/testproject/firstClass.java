@@ -18,7 +18,7 @@ public class firstClass {
 
       public  static String generateString(){
          
-          return "Premier auuu salut!!!"; 
+          return "Premier salut!!!"; 
       
       }
 }
