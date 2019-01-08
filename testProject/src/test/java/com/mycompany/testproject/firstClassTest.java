@@ -35,7 +35,7 @@ public class firstClassTest {
     @Test
     public void testGenerateString() {
         System.out.println("generateString");
-        String expResult = "Premier salut!!!!";
+        String expResult = "Premier salut!!!";
         String result = firstClass.generateString();
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
